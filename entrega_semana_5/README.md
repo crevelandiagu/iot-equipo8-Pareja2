@@ -1,4 +1,4 @@
-# entrega semana 4 preuba de bases de datos
+# entrega semana 5 prueba de bases de datos
 
 En la carpeta **postgres_iot** y **timescale_iot** se encuntran los codigos modificados con la nueva consulta
 en la cual se incluye en el ORM de Django el **value** de la medicion de la temperatura.
