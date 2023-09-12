@@ -21,9 +21,13 @@ y mostar los resultados de la consulta.
 la ruta del codigo modificado es 
 
 ```shell
-cd /timescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/urls.py
-cd /timescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/views.py
+cd /timrescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/urls.py
+cd /timrescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/views.py
 ```
 
 se modifica las urls para ingresar al nuevo endpoint y se agrega una nueva funcion en el views para ser accedida por la url 
 y mostar los resultados de la consulta.
+
+## Prueba de JMeter
+
+el archivo **pruebas_carga_capa_datos.jmx** contiene las pruebas realizadas en JMeter
