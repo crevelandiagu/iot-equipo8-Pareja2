@@ -14,7 +14,7 @@ cd /postgres_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/vie
 ```
 
 se modifica las urls para ingresar al nuevo endpoint y se agrega una nueva funcion en el views para ser accedida por la url 
-y mostar los resultados de la cunsulta.
+y mostar los resultados de la consulta.
 
 ## Codigo modificado de timescale
 
@@ -26,4 +26,4 @@ cd /timescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/vi
 ```
 
 se modifica las urls para ingresar al nuevo endpoint y se agrega una nueva funcion en el views para ser accedida por la url 
-y mostar los resultados de la cunsulta.
+y mostar los resultados de la consulta.
