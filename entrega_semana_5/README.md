@@ -21,8 +21,8 @@ y mostar los resultados de la consulta.
 la ruta del código modificado es 
 
 ```shell
-cd /timrescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/urls.py
-cd /timrescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/views.py
+cd /timescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/urls.py
+cd /timescale_iot/Realtime-Monitoring-webApp/realtimeMonitoring/realtimeGraph/views.py
 ```
 
 se modifica las urls para ingresar al nuevo endpoint y se agrega una nueva función en el views para ser accedida por la url 
